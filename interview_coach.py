@@ -5,7 +5,7 @@ from openai import OpenAI
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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"
+    api_key="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" #дарю
 )
 
 MODEL = "openai/gpt-4o-mini"
